@@ -1,5 +1,5 @@
 # Application of Neural Collaborative Filtering & Deep Matrix Factorization on Drug Target Interaction
-This is code for the course project for the Collaboarative Filtering(CSE640) Fall'18 course offered in IIIT Delhi.
+This is code for the course project for the Collaborative Filtering(CSE640) Fall'18 course offered in IIIT Delhi.
 
 ## Introduction
 We build a recommender system for drug target interactions using two warm start methods: Neural Collaborative Filtering and Deep Matrix Factorization. We apply these methods to the drug target interaction problem to predict what kind of
