@@ -5,7 +5,7 @@ This is code for the course project for the Collaborative Filtering(CSE640) Fall
 We build a recommender system for drug target interactions using two warm start methods: Neural Collaborative Filtering and Deep Matrix Factorization. We apply these methods to the drug target interaction problem to predict what kind of
 drugs would work on which target site.
 
-## Navigating the code
+## Navigating through the code
 - `drug.py` loads the datasets.
 - `ncf.py`, `dmf.py`, `GMF.py`, `MLP.py` contains code for training and saving checkpoints for the DMF and NCF models.
 - `evaluate.py` is the evaluation script for computing the NDCG and Hit Ratio metrics on the saved models.
